@@ -1,6 +1,6 @@
 # Test Cases — Urban Routes
 
-## 📌 Overview
+## Overview
 This document contains manual test cases created for the Urban Routes web application.
 
 The test cases focus on verifying core user flows, UI behavior, and input validation.
